@@ -5,4 +5,4 @@ keras == 2.1.5
 numpy == 1.14.2
 h5py == 2.7.1
 pillow == 2.7.0
-tensorflow == r1.7
+tensorflow == r1.1
